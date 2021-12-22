@@ -1,0 +1,10 @@
+{
+  "data" : [
+    {
+      "env": "",
+      "getIpCmd": "",
+      "fileName": "./hosts/prdbr.etchosts",
+      "host": ""
+    }
+  ]
+}
